@@ -47,7 +47,7 @@ td-yn
 
 En este caso, los triángulos formados por tres ordenadores interconectados son 12, y como de estos solo 7 contienen al menos un ordenador que comienza con `t` la solución es 7.
 
-```txt
+
 Número de triángulos con al menos una computadora que comienza con 't': 7
 ```
 
